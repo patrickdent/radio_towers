@@ -1,3 +1,3 @@
-# Roman Numerals
+# Radio Towers
 
-This is a simple Go Program that converts integers into roman numerals
+A timed solution to https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem
